@@ -9,7 +9,7 @@ Sitta_pusilla
 Pipilo_erythrophthalmus
 Sialia_sialis
 Oporornis_formosus
-Parus_carolinensis
+Poecile_carolinensis
 Spizella_pusilla
 Thryothorus_ludovicianus
 Vireo_flavifrons

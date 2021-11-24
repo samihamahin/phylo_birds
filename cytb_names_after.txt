@@ -17,7 +17,7 @@ Hylocichla_mustelina
 Dendroica_cerulea
 Dendroica_discolor
 Dendroica_dominica
-Wilsonia_citrina
+Setophaga_citrina
 Pipilo_erythrophthalmus
 Helmitheros_vermivorum
 Seiurus_motacilla
