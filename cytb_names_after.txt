@@ -9,7 +9,7 @@ Sialia_sialis
 Melanerpes_erythrocephalus
 Melanerpes_carolinus
 Sitta_pusilla
-Thryothorus_ludovicianus
+Thryothorus_ludovicianus_albinucha
 Spizella_pusilla
 Protonotaria_citrea
 Spiza_americana
@@ -17,7 +17,7 @@ Hylocichla_mustelina
 Dendroica_cerulea
 Dendroica_discolor
 Dendroica_dominica
-Setophaga_citrina
+Wilsonia_citrina
 Pipilo_erythrophthalmus
 Helmitheros_vermivorum
 Seiurus_motacilla
@@ -29,4 +29,5 @@ Poecile_carolinensis
 Vireo_griseus
 Coragyps_atratus
 Baeolophus_bicolor
+Crocodylus_acutus
 Passerina_cyanea

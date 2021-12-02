@@ -9,44 +9,44 @@
 . Data set: 				#1
 . Initial tree: 			BioNJ
 . Model of nucleotides substitution: 	GTR
-. Number of taxa: 			32
-. Log-likelihood: 			-5391.39518
-. Unconstrained log-likelihood: 	-2723.74270
-. Composite log-likelihood: 		-21774.88746
-. Parsimony: 				1455
-. Tree size: 				3331.56681
+. Number of taxa: 			33
+. Log-likelihood: 			-10581.74194
+. Unconstrained log-likelihood: 	-2347.70718
+. Composite log-likelihood: 		-17804.47647
+. Parsimony: 				3588
+. Tree size: 				181.22577
 . Discrete gamma model: 		Yes
   - Number of classes: 			4
-  - Gamma shape parameter: 		0.233
-  - Relative rate in class 1: 		0.00143 [freq=0.250000] 		
-  - Relative rate in class 2: 		0.05498 [freq=0.250000] 		
-  - Relative rate in class 3: 		0.46512 [freq=0.250000] 		
-  - Relative rate in class 4: 		3.47847 [freq=0.250000] 		
+  - Gamma shape parameter: 		1.103
+  - Relative rate in class 1: 		0.15700 [freq=0.250000] 		
+  - Relative rate in class 2: 		0.50561 [freq=0.250000] 		
+  - Relative rate in class 3: 		1.01514 [freq=0.250000] 		
+  - Relative rate in class 4: 		2.32225 [freq=0.250000] 		
 . Nucleotides frequencies:
-  - f(A)=  0.24672
-  - f(C)=  0.34047
-  - f(G)=  0.15965
-  - f(T)=  0.25316
+  - f(A)=  0.25776
+  - f(C)=  0.30587
+  - f(G)=  0.19151
+  - f(T)=  0.24486
 . GTR relative rate parameters :
-  A <-> C    7.13660
-  A <-> G   11.36286
-  A <-> T    5.09668
-  C <-> G    0.27250
-  C <-> T   30.38054
+  A <-> C   15.66326
+  A <-> G   18.76522
+  A <-> T    7.78127
+  C <-> G    3.05602
+  C <-> T   34.68262
   G <-> T    1.00000
 . Instantaneous rate matrix : 
   [A---------C---------G---------T------]
-  -0.68505   0.30077   0.22456   0.15972  
-   0.21796  -1.17541   0.00539   0.95206  
-   0.34704   0.01148  -0.38986   0.03134  
-   0.15566   1.28040   0.01976  -1.45582  
+  -0.93957   0.43746   0.32814   0.17398  
+   0.36865  -1.19755   0.05344   0.77546  
+   0.44166   0.08535  -0.54937   0.02236  
+   0.18314   0.96865   0.01749  -1.16928  
 . aLRT statistics to test branches
 
 . Run ID:				none
-. Random seed:				1638330621
+. Random seed:				1638404018
 . Subtree patterns aliasing:		no
 . Version:				3.3.20190909
-. Time used:				0h0m49s (49 seconds)
+. Time used:				0h0m39s (39 seconds)
 
  oooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo
  Suggested citations:

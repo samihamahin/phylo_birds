@@ -29,4 +29,5 @@
 >KX132086.1_Vireo_griseus_voucher_71156_cytochrome_b_gene,_partial_cds;_mitochondrial
 >KX534418.1_Coragyps_atratus_voucher_WOB-08_cytochrome_b_(cytb)_gene,_partial_cds;_mitochondrial
 >MK836399.1_Baeolophus_bicolor_isolate_228118879_cytochrome_b_(cytb)_gene,_partial_cds;_mitochondrial
+>MN231605.1_Crocodylus_acutus_isolate_SM3Bur_cytochrome_b_(cytb)_gene,_complete_cds;_mitochondrial
 >MT050681.1_Passerina_cyanea_cytochrome_b_(cytb)_gene,_partial_cds;_mitochondrial

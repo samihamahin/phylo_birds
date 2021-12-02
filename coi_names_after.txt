@@ -9,7 +9,7 @@ Sitta_pusilla
 Pipilo_erythrophthalmus
 Sialia_sialis
 Oporornis_formosus
-Poecile_carolinensis
+Parus_carolinensis
 Spizella_pusilla
 Thryothorus_ludovicianus
 Vireo_flavifrons
@@ -27,6 +27,7 @@ Piranga_rubra
 Protonotaria_citrea
 Vermivora_chrysoptera
 Setophaga_citrina
+Crocodylus_acutus
 Corvus_ossifragus
 Spiza_americana
 Toxostoma_rufum
