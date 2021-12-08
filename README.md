@@ -29,13 +29,21 @@ The phylogenetic trees generated were completed using 3 different combinations o
 
 ## Figure Tables 
 
-### Phylogenetic Tree from Concatenated Sequences of COI and Cytb marker genes
+### (A) Phylogenetic Tree from Concatenated Sequences of COI and Cytb marker genes
 
-### Phylogenetic Tree for COI and Cytb marker genes (without Vireo griseus) 
+![alt text](https://github.com/samihamahin/phylo_birds/blob/main/coi_cytb_tree_migratory.png?raw=true)
 
-### Phylogenetic Tree for COI marker gene
+### (B) Phylogenetic Tree for COI and Cytb marker genes (without Vireo griseus) 
 
-### Phylogenetic Tree for Cytb marker gene 
+![alt text](https://github.com/samihamahin/phylo_birds/blob/main/coi_cytb_tree_migratory.png?raw=true)
+
+### (C) Phylogenetic Tree for COI marker gene
+
+![alt text](https://github.com/samihamahin/phylo_birds/blob/main/coi_tree_migratory.png?raw=true)
+
+### (D) Phylogenetic Tree for Cytb marker gene 
+
+![alt text](https://github.com/samihamahin/phylo_birds/blob/main/cytb_tree_migratory.png?raw=true)
 
 ## Discussion
 
