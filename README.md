@@ -27,3 +27,20 @@ The R packages ape and phyML were used to construct the phylogenetic tree based 
 
 The phylogenetic trees generated were completed using 3 different combinations of marker genes. The resulting trees are the COI and Cytb marker genes concatenated sequence tree (Fig. A), COI marker gene tree (Fig. C), and the Cytb marker gene tree (Fig. D). The phylogenetic tree generated with the concatenated sequence of the COI and Cytb genes (Fig. A) was distorted. Because of this, the Vireo griseus species causing the long branching to occur in Figure A was removed in a supplementary tree in order to show the relationships between the species more clearly (Fig. B). When looking at the concatenated sequence COI and Cytb gene phylogenetic tree (Fig. A), it is apparent that there is less common ancestry between the two genetic markers due to the distorted evolutionary tree. Even so, all of the trees show that resident and temperate and neotropical migratory types evolved independently of one another. Furthermore, there are no shared common ancestors that passed on the migratory traits to specific clades. These results point to convergent evolution being the cause of migratory behaviors evolving more than once in the phylogeny, as indicated by the presence of mixed migratory behaviors within the clades rather than simply one migratory behavior clustered together.   
 
+## Figure Tables 
+
+### Phylogenetic Tree from Concatenated Sequences of COI and Cytb marker genes
+
+### Phylogenetic Tree for COI and Cytb marker genes (without Vireo griseus) 
+
+### Phylogenetic Tree for COI marker gene
+
+### Phylogenetic Tree for Cytb marker gene 
+
+## Discussion
+
+According to the findings, the migratory behavior of resident and temperate and neotropical migratory birds has evolved several times across their phylogeny. It was observed that migratory behaviors evolved several times when looking at the COI and Cytb marker genes concatenated sequence tree (Fig. A), COI marker gene tree (Fig. C), and the Cytb marker gene tree (Fig. D). These findings are supported by the fact that the groups of bird species in the same clades do not have the same migratory behaviors across the whole evolutionary tree in all three of the phylogenetic trees. This is significant because none of the clades were composed of only one specific migration behavior. It is clear that convergent evolution occurred and caused this phenomenon. All three evolutionary trees demonstrated that migration behavior evolved independently. Convergent evolution allowed these migratory birds to develop migratory patterns that did not exist in their last common ancestor. As a result, the null hypothesis is correct in that migratory behaviors in migratory birds evolved several times. The phylogenetic tree was attempted to be reconstructed using the concatenated sequences of COI and Cytb (Fig. A), however it was unsuccessful due to negative or zero branch lengths. As a result of this, a new evolutionary tree was created for the marker genes of COI and Cytb without Vireo griseus (Fig. B). The Vireo griseus species was removed from the phylogenetic tree because its long branch disfigured the tree.
+
+## Challenges
+
+Ancestral reconstruction of the phylogenetic tree with the concatenated sequence of COI and Cytb (Fig. A) was attempted but had failed because of negative or zero branch lengths. The tree was then trimmed to not include the branch of Vireo griseus (Fig. B). This trimmed tree was believed to have non zero branch lengths but then after running ancestral reconstruction functions on the trimmed tree, the same error of negative or zero branch lengths arose again. Because of this, ancestral reconstruction of the migratory birds could not be added to the figures because of these negative or zero branch lengths. 
